@@ -20,4 +20,6 @@ for i in ragne(1,10)
   print(a)
 ```
 소스코드 
+
+강아지 사진 
 ![image](https://user-images.githubusercontent.com/110236953/188275405-ef54a5a9-3dde-41c8-b96d-1376608ac46b.png)

@@ -12,3 +12,11 @@
 
 > The information manager
 >> git means
+
+소스 코드 삽입하기
+``` python
+a= input().split()
+for i in ragne(1,10)
+  print(a)
+```
+소스코드 

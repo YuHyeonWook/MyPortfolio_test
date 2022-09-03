@@ -9,3 +9,6 @@
   - origin 연결하기
   - push 
 - pull vs fetch
+
+> The information manager
+>> git means
